@@ -19,3 +19,12 @@ assetsPublicPath:  => ''
 
 }
 ```
+## build
+```
+cd myapp
+npm run build
+cd ../
+cordova build ios
+
+```
+open platform/ios/ in xcode and build project
